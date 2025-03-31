@@ -1,0 +1,5 @@
+config:
+  aws:region: ca-central-1
+  lab8-pulumi:errorDocument: error.html
+  lab8-pulumi:indexDocument: index.html
+  lab8-pulumi:path: ./www
